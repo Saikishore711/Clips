@@ -1,3 +1,3 @@
 # Clip
 
-Clip yor moment from videos
+Clip your moment from videos!
